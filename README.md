@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on different projects    
 - 📫 How to reach me 
 
-<!---
-botirmasharipov/botirmasharipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://komarev.com/ghpvc/?username=botirmasharipov&label=Profile%20views&color=0e75b6&style=flat" alt="botir masharipov" />
+
+<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
+
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=botirmasharipov&theme=dracula" alt="botirmasharipov" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botirmasharipov&show_icons=true&theme=dracula&locale=en" alt="botirmasharipov" />
+</p>
