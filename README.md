@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Botirjon Masharipov
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different projects    
 - 📫 How to reach me 
 
