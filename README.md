@@ -20,5 +20,5 @@
 
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=botirmasharipov&theme=dracula" alt="botir masharipov" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botirmasharipov&show_icons=true&theme=dracula&locale=en" alt="botir masharipov" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botirmasharipov&show_icons=true&theme=dracula&locale=en&hide=stars" alt="botir masharipov" />
 </p>
