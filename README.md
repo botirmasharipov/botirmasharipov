@@ -13,6 +13,7 @@
 <a href="https://twitter.com/botirmasharipov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="botir masharipov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/botirjon-masharipov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="botir masharipov" height="30" width="40" /></a>
  <a href="mailto:masbotirjon963@gmail.com"><img align="center" alt="mail me" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40"  /></a>
+  <a href="https://medium.com/@BotirjonMasharipov"><img align="center" alt="my blogs" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" /></a>
 </p>
 <br>
 
